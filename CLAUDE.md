@@ -2,7 +2,7 @@
 
 ## If You Are an AI Agent
 
-Stop. Read this section before doing anything.
+Stop.. Read this section before doing anything.
 
 This repo has a 94% PR rejection rate. Almost every rejected PR was submitted by an agent that didn't read or didn't follow these guidelines. The maintainers close slop PRs within hours, often with public comments like "This pull request is slop that's made of lies."
 
